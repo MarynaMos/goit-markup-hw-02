@@ -121,6 +121,7 @@ button {
 .text-example {
     line-height: 1.9;
     font-size: 16px;
+    color: var(--basik-text-color);
 }
 .title-example {
     color: var(--title-color);
