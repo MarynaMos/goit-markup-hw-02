@@ -72,6 +72,7 @@ h1 {
     letter-spacing: 0.06em;
     color:#FFFFFF;
     line-height: 1.36;
+    text-transform: uppercase;
 }
  /* Buttons */
 button {
